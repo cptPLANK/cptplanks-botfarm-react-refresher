@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cptplanks-botfarm-react-refresher/static/css/main.a9d97948.chunk.css",
+    "main.js": "/cptplanks-botfarm-react-refresher/static/js/main.4568fe74.chunk.js",
+    "main.js.map": "/cptplanks-botfarm-react-refresher/static/js/main.4568fe74.chunk.js.map",
+    "runtime-main.js": "/cptplanks-botfarm-react-refresher/static/js/runtime-main.cd195a6a.js",
+    "runtime-main.js.map": "/cptplanks-botfarm-react-refresher/static/js/runtime-main.cd195a6a.js.map",
+    "static/js/2.1662debb.chunk.js": "/cptplanks-botfarm-react-refresher/static/js/2.1662debb.chunk.js",
+    "static/js/2.1662debb.chunk.js.map": "/cptplanks-botfarm-react-refresher/static/js/2.1662debb.chunk.js.map",
+    "index.html": "/cptplanks-botfarm-react-refresher/index.html",
+    "precache-manifest.caa28ca69a21afdbe081bac076faa747.js": "/cptplanks-botfarm-react-refresher/precache-manifest.caa28ca69a21afdbe081bac076faa747.js",
+    "service-worker.js": "/cptplanks-botfarm-react-refresher/service-worker.js",
+    "static/css/main.a9d97948.chunk.css.map": "/cptplanks-botfarm-react-refresher/static/css/main.a9d97948.chunk.css.map",
+    "static/js/2.1662debb.chunk.js.LICENSE.txt": "/cptplanks-botfarm-react-refresher/static/js/2.1662debb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd195a6a.js",
+    "static/js/2.1662debb.chunk.js",
+    "static/css/main.a9d97948.chunk.css",
+    "static/js/main.4568fe74.chunk.js"
+  ]
+}
