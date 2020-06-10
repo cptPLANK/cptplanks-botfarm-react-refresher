@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cptplanks-botfarm-react-refresher/precache-manifest.caa28ca69a21afdbe081bac076faa747.js"
+  "/cptplanks-botfarm-react-refresher/precache-manifest.3e485209908e7628940de8bb509fbf00.js"
 );
 
 self.addEventListener('message', (event) => {
